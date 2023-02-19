@@ -1,0 +1,1 @@
+Figuring out how to use Git seems intuitive but difficult at the same time.
